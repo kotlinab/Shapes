@@ -75,6 +75,7 @@
         android:layout_width="75dp"
         android:layout_height="75dp"
         android:background="@drawable/button_e"
+        android:onClick="nextActivity"
         android:text="GO"
         android:textAllCaps="false"
         android:textColor="@color/white"
