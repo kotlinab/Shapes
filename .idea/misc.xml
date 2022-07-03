@@ -12,14 +12,19 @@
         <entry key="app/src/main/res/drawable/button_state_disabled.xml" value="0.179" />
         <entry key="app/src/main/res/drawable/button_state_not_pressed.xml" value="0.179" />
         <entry key="app/src/main/res/drawable/button_state_pressed.xml" value="0.179" />
+        <entry key="app/src/main/res/drawable/circular_shape.xml" value="0.179" />
         <entry key="app/src/main/res/drawable/custom_buton.xml" value="0.313" />
         <entry key="app/src/main/res/drawable/custom_button.xml" value="0.25" />
+        <entry key="app/src/main/res/drawable/custom_seekbar.xml" value="0.179" />
+        <entry key="app/src/main/res/drawable/image.xml" value="0.179" />
         <entry key="app/src/main/res/drawable/oval.xml" value="0.179" />
         <entry key="app/src/main/res/drawable/rectangle.xml" value="0.179" />
         <entry key="app/src/main/res/drawable/rectangle_gradient.xml" value="0.179" />
         <entry key="app/src/main/res/drawable/ring.xml" value="0.22" />
+        <entry key="app/src/main/res/drawable/thumb.xml" value="0.1" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.75" />
-        <entry key="app/src/main/res/layout/activity_selector.xml" value="0.5" />
+        <entry key="app/src/main/res/layout/activity_seek_bar.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_selector.xml" value="0.25" />
       </map>
     </option>
   </component>
